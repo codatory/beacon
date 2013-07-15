@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+gem 'awesome_print'
+gem 'shotgun'
+gem 'data_mapper'
+gem 'dm-postgres-adapter'
+gem 'dm-adjust'
+gem 'pg'
+gem 'json'
